@@ -29,39 +29,41 @@ body {
           .side-collapse.in {
               width:0;
           }
+      
       }
+
+
+
 #Home {padding-top:100px;height:1000px; 
  background-image: url("../img/Picture1.jpg?1461866461760");
   background-repeat: no-repeat;
   background-size:100%;
+  }
 
-   
- 
-}
-
-    
- 
- 
-  #Menu  {padding-top:100px;height:1000px;
+   #Menu  {padding-top:100px;height:1000px;
    background-image: url("../img/Picture1.jpg?1461866461760");
   background-repeat: no-repeat;
-  background-size:100%;
+background-size:100%;
   
   }
   #AboutUs {padding-top:100px;height:1000px;
    background-image: url("../img/Picture1.jpg?1461866461760");
   background-repeat: no-repeat;
   background-size:100%;
+ 
   }
   #Contact {padding-top:100px;height:1000px;
    background-image: url("../img/Picture1.jpg?1461866461760");
   background-repeat: no-repeat;
   background-size:100%;
+
   }
-  #Location {padding-top:50px;height:1000px;
+  #Location {padding-top:100px;height:1000px;
    background-image: url("../img/Picture1.jpg?1461866461760");
   background-repeat: no-repeat;
   background-size:100%;
+  
+
   }
 
 .navbar{
@@ -93,3 +95,30 @@ p {
    left: 0; 
    width: 100%; 
 }
+
+h2 { 
+   position: absolute; 
+   top: 160px; 
+   left: 0; 
+   width: 100%; 
+   font-size: 16px;
+   color: saddlebrown;
+}
+h1 { 
+   position: absolute; 
+   top: 220px; 
+   left: 0; 
+   width: 100%; 
+   font-size: 16px;
+   color: saddlebrown;
+}
+h3 { 
+   position: absolute; 
+   top: 140px; 
+   left: 0; 
+   width: 100%; 
+   font-size: 30px;
+   color: saddlebrown;
+}
+
+.top-buffer { margin-top: 1000px;}
