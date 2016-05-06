@@ -120,5 +120,51 @@ h3 {
    font-size: 30px;
    color: saddlebrown;
 }
+h4 { 
+   position: absolute; 
+   top:4950px; 
+   left: 630px; 
+   width: 90%; 
+   font-size: 15px;
+   color: saddlebrown;
+}
+h5 { 
+   position: absolute; 
+   top:4980px; 
+   left: 940px; 
+   width: 90%; 
+   font-size: 15px;
+   color: saddlebrown;
+}
+h6 { 
+   position: absolute; 
+   top:4950px; 
+   left: 960px; 
+   width: 90%; 
+   font-size: 20px;
+   color: saddlebrown;
+   text-decoration: underline;
+}
+
+h7 { 
+   position: absolute; 
+   top:4950px; 
+   left: 280px; 
+   width: 90%; 
+   font-size: 20px;
+   color: saddlebrown;
+   text-decoration: underline;
+}
+   
+
+p { 
+   position: absolute; 
+   top:4950px; 
+   left: 660px; 
+   width: 90%; 
+   font-size: 20px;
+   color: saddlebrown;
+   text-decoration: underline;
+}
 
 .top-buffer { margin-top: 1000px;}
