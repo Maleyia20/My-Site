@@ -94,6 +94,7 @@ p {
    top: 200px; 
    left: 0; 
    width: 100%; 
+   font-family: "Times New Roman", Times, serif;
 }
 
 h2 { 
@@ -103,6 +104,7 @@ h2 {
    width: 100%; 
    font-size: 16px;
    color: saddlebrown;
+   font-family: "Times New Roman", Times, serif;
 }
 h1 { 
    position: absolute; 
@@ -111,6 +113,7 @@ h1 {
    width: 100%; 
    font-size: 16px;
    color: saddlebrown;
+   font-family: "Times New Roman", Times, serif;
 }
 h3 { 
    position: absolute; 
@@ -119,6 +122,7 @@ h3 {
    width: 100%; 
    font-size: 30px;
    color: saddlebrown;
+   font-family: "Times New Roman", Times, serif;
 }
 h4 { 
    position: absolute; 
@@ -127,6 +131,7 @@ h4 {
    width: 90%; 
    font-size: 15px;
    color: saddlebrown;
+   font-family: "Times New Roman", Times, serif;
 }
 h5 { 
    position: absolute; 
@@ -135,6 +140,7 @@ h5 {
    width: 90%; 
    font-size: 15px;
    color: saddlebrown;
+   font-family: "Times New Roman", Times, serif;
 }
 h6 { 
    position: absolute; 
@@ -144,6 +150,7 @@ h6 {
    font-size: 20px;
    color: saddlebrown;
    text-decoration: underline;
+   font-family: "Times New Roman", Times, serif;
 }
 
 h7 { 
@@ -154,6 +161,7 @@ h7 {
    font-size: 20px;
    color: saddlebrown;
    text-decoration: underline;
+   font-family: "Times New Roman", Times, serif;
 }
    h8 { 
    position: absolute; 
@@ -163,23 +171,28 @@ h7 {
    font-size: 9px;
    color: saddlebrown;
    text-decoration: underline;
+   font-family: "Times New Roman", Times, serif;
 }
     h9 { 
    position: absolute; 
-   top:3300px;  
-  left:220px ;
+   top:3200px;  
+  left:-300px ;
    width: 90%; 
-   font-size: 30px;
-   color: black;
+   font-size: 25px;
+   color: whitesmoke;
+   font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
 }
 
     h10 { 
    position: absolute; 
-   top:3300px;  
-  left:220px ;
+   top:3100px;  
+  left:-300px ;
    width: 90%; 
-   font-size: 30px;
-   color: black;
+   font-size: 40px;
+   color:whitesmoke;
+   font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
 }
 p { 
    position: absolute; 
@@ -189,6 +202,7 @@ p {
    font-size: 20px;
    color: saddlebrown;
    text-decoration: underline;
+   font-family: "Times New Roman", Times, serif;
 }
 
 .top-buffer { margin-top: 1000px;}
