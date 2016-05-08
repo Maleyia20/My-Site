@@ -204,5 +204,9 @@ p {
    text-decoration: underline;
    font-family: "Times New Roman", Times, serif;
 }
+.carousel-caption {
+   position: absolute;
+   top:-100px
+}
 
 .top-buffer { margin-top: 1000px;}
